@@ -1,4 +1,5 @@
 clc;clear all
+
 Fs=16000;%Sampling frequency in hertz
 ch=1;%Number of channels--2 options--1 (mono) or 2 (stereo)
 datatype='double';
