@@ -68,4 +68,4 @@ plot(y2)
 figure
 plot(y1+y2)
 
-soundsc(y1,16000) %change the first argument to listen to the difference
+soundsc(y1,16000); %change the first argument to listen to the difference
