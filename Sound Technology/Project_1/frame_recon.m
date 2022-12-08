@@ -1,4 +1,4 @@
-function y=frame_recon(X, ovrlp)   
+function y = frame_recon(X, ovrlp)   
 
 [frame K]=size(X);
 
