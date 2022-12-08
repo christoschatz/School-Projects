@@ -43,7 +43,7 @@ end
 end
 
 y = frame_recon (Y, 0.5);
-soundsc(y,16000)
+soundsc(y,16000);
             
 counter1 = 0;
 for i = 1:columns
