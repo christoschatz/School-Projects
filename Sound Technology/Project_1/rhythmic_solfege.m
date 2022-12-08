@@ -46,7 +46,7 @@ for k = 1:250
     end
 end
 
-x_new = ones(1024,1); % create an array 1024 x 1 because diffEtotal cannot detect the 1st note
+x_new = ones(1024,1);
 Y_new = [x_new Y];% add x_new as 1st column in the Y table
 y = frame_recon (Y_new, 0.5);
 soundsc(y,16000)     
