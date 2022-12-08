@@ -1,5 +1,5 @@
 # Sound Technology Projects
-6th semester course
+MATLAB projects for 6th semester course
 
 # Project 1:
 - Short Time Audio Processing
@@ -16,3 +16,8 @@
 - Speaker identification
 
 # Project 3:
+- Prosthetic Composition
+- Subtractive Composition
+- FM composition
+- Music song implementantion
+- Distortion sound effect implementation
