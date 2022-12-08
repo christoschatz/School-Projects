@@ -1,4 +1,4 @@
-function X=frame_wind(x,frame, ovrlp)   
+function X = frame_wind(x,frame, ovrlp)   
 
 M=length(x);
 K=floor(M/(frame*ovrlp))
