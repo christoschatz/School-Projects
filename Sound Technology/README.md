@@ -16,8 +16,8 @@ MATLAB projects for 6th semester course
 - Speaker identification
 
 # Project 3:
-- Prosthetic Composition
-- Subtractive Composition
+- Prosthetic composition
+- Subtractive composition
 - FM composition
 - Music song implementantion
 - Distortion sound effect implementation
