@@ -4,7 +4,8 @@ SystemVerilog projects implemented using FPGA for 7th semester course
 # Lab 2:
 
 - Display on the screen four squares with different colors using the VGA protocol
-https://github.com/christoschatz/School-Projects/blob/main/Integrated%20Circuits/screenshots/4squares.png
+
+![Banner](https://github.com/christoschatz/School-Projects/blob/main/Integrated%20Circuits/screenshots/4squares.png)
 
 # Lab 3:
 
