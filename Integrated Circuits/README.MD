@@ -11,4 +11,4 @@ SystemVerilog projects implemented using FPGA for 7th semester course
 
 # Lab 4:
 
-- Extending the functionality of tic-tac-toe game so that the user can play against the computer
+- Extend the functionality of tic-tac-toe game so that the user can play against the computer
