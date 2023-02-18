@@ -7,7 +7,7 @@ module PanelDisplay (
 	output logic [3:0] green,
 	output logic [3:0] blue);
   
-    logic pxlClk;
+        logic pxlClk;
 	
 	always_ff @(posedge clk) begin
 	if (rst)
