@@ -1,5 +1,5 @@
 # Sound Technology Projects
-MATLAB projects for 6th semester course
+MATLAB projects for 6th semester course.
 
 # Project 1:
 - Short Time Audio Processing
