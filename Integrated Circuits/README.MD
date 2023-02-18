@@ -7,7 +7,7 @@ SystemVerilog projects implemented using FPGA for 7th semester course
 
 # Lab 3:
 
-- Create tic-tac-toe game for two players using FPGA 
+- Create tic-tac-toe game for two players using FPGA and display the game status on VGA monitor
 
 # Lab 4:
 
