@@ -24,6 +24,6 @@ MATLAB projects for 6th semester course
 - Distortion sound effect implementation
 
 This was a group project. The members of the group were:
-* [Christos Chatzisavvas](https://github.com/christoschatz)
-* [Aggelos Kavaleros](https://github.com/AggelosKv)
+- [Christos Chatzisavvas](https://github.com/christoschatz)
+- [Aggelos Kavaleros](https://github.com/AggelosKv)
 - Naoum Kakalis
