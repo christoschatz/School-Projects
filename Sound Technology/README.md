@@ -25,5 +25,5 @@ MATLAB projects for 6th semester course
 
 This was a group project. The members of the group were:
 - Christos Chatzisavvas
-- Aggelos Kavaleros
+- * [Aggelos Kavaleros](https://github.com/AggelosKv)
 - Naoum Kakalis
