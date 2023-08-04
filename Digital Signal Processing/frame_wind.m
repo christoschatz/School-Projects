@@ -9,6 +9,3 @@ for i=1:K-floor(1./ovrlp-1)
     
     X(:,i)=x(indx+1:indx+frame).*W;
 end
-
-    
-    
