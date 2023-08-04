@@ -9,6 +9,3 @@ for i=1:K
     indx=(i-1)*floor(frame*ovrlp);
     y(indx+1:indx+frame)=y(indx+1:indx+frame)+X(:,i)';
 end
-
-    
-    
