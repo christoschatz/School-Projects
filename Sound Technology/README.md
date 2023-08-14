@@ -1,4 +1,4 @@
-# Sound Technology Projects
+# Sound Technology 
 MATLAB projects for 6th semester course
 
 # Project 1:
