@@ -1,4 +1,4 @@
-# Microprocessors and Applications Project
+# Microprocessors and Applications 
 - ARM Assembly project for 7th semester course
 
 In this project the purpose is to create in ARM Assembly a program which could be used in an automatic coffee machine.
