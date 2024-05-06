@@ -6,6 +6,8 @@ SystemVerilog project which implements a 5-stage pipeline processor using forwar
 # Lab 1:
 
 - To implement the MUL and MULHU functions, modifications were made to both the decode and execution stages.
+  
+![Banner](https://github.com/christoschatz/School-Projects/blob/main/Computer%20Architecture/screenshots/mul_mulhu.png)
 
 
 # Lab 2:
