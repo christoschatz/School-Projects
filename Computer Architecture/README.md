@@ -5,7 +5,7 @@ SystemVerilog project which implements a 5-stage pipeline processor using RISC-V
 
 # Lab 1:
 
-- In order to achieve implement MUL and MULHU functions, we have to change decode and execution stages.
+- In order to achieve implement MUL and MULHU functions, decode and execution stages have been changed.
 
 
 # Lab 2:
