@@ -23,6 +23,6 @@ This was a group project. The members of the group were:
 
 # Lab 3:
 
-- Extend the functionality of tic-tac-toe game so that the user can play against the computer
+- To mitigate instruction stalling, we utilize the forwarding technique within the decode stage. Consequently, the processor stalls only when the required value for a register originates from a memory load operation.
 
 ![Banner](https://github.com/christoschatz/School-Projects/blob/main/Computer%20Architecture/screenshots/forwarding.png)
