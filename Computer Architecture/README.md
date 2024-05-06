@@ -1,11 +1,12 @@
 # Computer Architecture
 SystemVerilog project which implements a 5-stage pipeline processor using RISC-V Instruction Set
 
+![Banner](https://github.com/christoschatz/School-Projects/blob/main/Computer%20Architecture/screenshots/processor.png)
+
 # Lab 1:
 
 - Implement MUL and MULHU functions
 
-![Banner](https://github.com/christoschatz/School-Projects/blob/main/Computer%20Architecture/screenshots/processor.png)
 
 # Lab 2:
 
