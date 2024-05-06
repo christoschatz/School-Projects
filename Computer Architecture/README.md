@@ -1,6 +1,5 @@
 # Computer Architecture
-SystemVerilog project which implements a 5-stage pipeline processor using forwarding technique 
-This Processor also uses RISC-V instruction set
+SystemVerilog project which implements a 5-stage pipeline processor using forwarding technique. This Processor also uses RISC-V instruction set
 
 ![Banner](https://github.com/christoschatz/School-Projects/blob/main/Computer%20Architecture/screenshots/processor.png)
 
