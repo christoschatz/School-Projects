@@ -25,3 +25,4 @@ This was a group project. The members of the group were:
 
 - Extend the functionality of tic-tac-toe game so that the user can play against the computer
 
+![Banner](https://github.com/christoschatz/School-Projects/blob/main/Computer%20Architecture/screenshots/forwarding.png)
