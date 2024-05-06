@@ -1,2 +1,5 @@
 # School-Projects
-This is a repository that containes coding projects i worked on during my studies
+This repository comprises coding projects I worked on throughout my studies.
+
+
+
