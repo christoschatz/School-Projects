@@ -12,7 +12,7 @@ SystemVerilog project which implements a 5-stage pipeline processor using forwar
 
 - To enhance efficiency, a 5-stage pipeline was implemented. This involved integrating a unit within the decode stage to identify dependencies between read-after-write operations, halting sequential execution until such dependencies cease to exist.
 
-![Banner](https://github.com/christoschatz/School-Projects/blob/main/Computer%20Architecture/screenshots/processor.png)
+![Banner](https://github.com/christoschatz/School-Projects/blob/main/Computer%20Architecture/screenshots/pipeline.png)
 
 # Lab 3:
 
