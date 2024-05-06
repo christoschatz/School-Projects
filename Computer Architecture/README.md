@@ -2,8 +2,9 @@
 SystemVerilog project which implements a 5-stage pipeline processor using forwarding technique. This Processor also uses RISC-V instruction set
 
 This was a group project. The members of the group were:
-- [Christos Chatzisavvas](https://github.com/christoschatz)
 - [Aggelos Kavaleros](https://github.com/AggelosKv)
+- [Christos Chatzisavvas](https://github.com/christoschatz)
+
 
 ![Banner](https://github.com/christoschatz/School-Projects/blob/main/Computer%20Architecture/screenshots/processor.png)
 
