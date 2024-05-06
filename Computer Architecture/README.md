@@ -5,14 +5,14 @@ SystemVerilog project which implements a 5-stage pipeline processor using forwar
 
 # Lab 1:
 
-- In order to achieve implement MUL and MULHU functions, decode and execution stages have been changed.
+- To implement the MUL and MULHU functions, modifications were made to both the decode and execution stages.
 
 
 # Lab 2:
 
-- Create tic-tac-toe game for two players using FPGA and display the game status on VGA monitor
+- To enhance efficiency, a 5-stage pipeline was implemented. This involved integrating a unit within the decode stage to identify dependencies between read-after-write operations, halting sequential execution until such dependencies cease to exist.
 
-![Banner](https://github.com/christoschatz/School-Projects/blob/main/Integrated%20Circuits/screenshots/tic-tac-toe.png)
+![Banner](https://github.com/christoschatz/School-Projects/blob/main/Computer%20Architecture/screenshots/processor.png)
 
 # Lab 3:
 
