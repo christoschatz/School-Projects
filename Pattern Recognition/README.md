@@ -25,6 +25,5 @@ Pattern Recognition Course - 9th Semester
 - Random Forests
 
 ## Final Project
-- Part 1: Image Classification Problem with Mask and No Mask Usage For Face Images
-- Part 2: Binary Classification Problem for Binding Of A Chemical Molecule to a Biological Receptor
-
+- Part 1: involves addressing an image classification task that distinguishes between images of faces with masks and those without masks.
+- Part 2: deals with a binary classification problem focusing on determining whether a chemical molecule binds to a biological receptor.
